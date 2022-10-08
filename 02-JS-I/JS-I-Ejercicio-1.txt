@@ -1,0 +1,12 @@
+Variable: se guarda algo en un lugar que se va a usar mas tarde. 
+
+String: es un archivo de tipo texto
+
+Función: es una orden que hace algo especifico, y se puede usar muchas veces 
+	dentro de la funcion podemos agragrle variables y multiples argumentos.
+	Y para que devuelva un resultado tenemos que decirle return.
+
+Declaración if: es una operacion logica que determina una condicion.
+
+Valore Booleanos (true, false): determina si una condicion es verdadera o falsa
+
