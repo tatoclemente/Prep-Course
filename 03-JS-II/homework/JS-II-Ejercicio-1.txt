@@ -1,0 +1,12 @@
+	for: es un statement que repite una expresión una y otra vez mientras se cumpla una condición.
+ 
+ Se detiene cuando encuentra algo que estamos buscando o despues de determinado tiempo.
+
+
+	Operadores Lógicos: Comparan tipos de datos booleanos
+
+	&&: "Y" (AND) --> Si ambas expresiones son true, es verdadero.
+
+	||: "O" (OR)  --> Si una de las expresiones es true, es verdadero.
+
+	!: "NO" (NOT) --> Devuelve un booleano opuesto a lo que se le pasa.
