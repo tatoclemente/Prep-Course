@@ -1,0 +1,16 @@
+Objetos: Son colecciones de informacion que se almacenan en una variable
+
+Propiedades: Son un conjutos de valores que posee un objeto
+
+Métodos: Son funciones adentro de un objeto.
+
+Bucle 'For...in': Recorre cada propiedad Clave-Valor
+
+Notación de puntos vs notación de corchetes:
+
+* Notacion de puntos o DOT Notation es una llamada literal a una propiedad dentro de un objeto.
+Se accede a un valor llamando a al objeto seguido por el nombre de la propiedad unidos por un punto.
+
+* Notacion de corchetes o Braket Notation funciona igual que la notación por puntos 
+pero el nombre de la propiedad se expresa entre comillas y a su vez entre coprchetes. Es mas flexible y 
+se usa cuando hay que iuntercalar con variables fuera del objeto.
