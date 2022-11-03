@@ -1,0 +1,4 @@
+*Portotype: Es un objeto (padre) de otros objetos (hijos).
+
+*_Contructors_ (de clases): Es una funcion contructora de un tipo de objeto llamado "clases", 
+(plantillas para crear objetos). Podria decirse que es "Una fábrica de objetos"
