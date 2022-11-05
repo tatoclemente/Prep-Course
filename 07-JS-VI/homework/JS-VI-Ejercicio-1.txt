@@ -1,0 +1,2 @@
+callbacks: se llaman callbacks cuando se le pasa una función como argumento a otra función 
+y luego se llama por la función externa para hacer una tarea ezpecifica
